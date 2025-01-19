@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Sukanya</h1>
+<h1 align="center">Hello, I'm Sukanya👋</h1>
 <!-- <h3 align="center">Building and Shiping Cool StuffS!🚀</h3> -->
 
 <p align="center"> 
